@@ -18,7 +18,7 @@ const myFn = {
   
   // 2. 대상선정
   // 이벤트 대상: .gnb>ul>li
-  const gnbList = myFn.qsa('.gnb>ul>li');
+  // const gnbList = myFn.qsa('.gnb>ul>li');
   // 변경 대상: .smenu -> 클릭된 이벤트 대상 하위요소
 //   const smenu = myFn.qs('.smenu');
 
